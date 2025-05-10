@@ -1,0 +1,1934 @@
+[
+    {
+        "FirstName": "Fatiha",
+        "LastName": "Azeez",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Al-Amin",
+        "LastName": "Jibril",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Junilo",
+        "LastName": "Wahab",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ifeanyi",
+        "LastName": "Olughu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Joshua",
+        "LastName": "Omilani",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Sheriffdeen",
+        "LastName": "Ajibola",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Gabriel",
+        "LastName": "Adjene",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Bamgbose",
+        "LastName": "Akinlade",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Joy",
+        "LastName": "Obaidu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Joy",
+        "LastName": "Addisi",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Mohammed",
+        "LastName": "Abubakar",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Sanni",
+        "LastName": "Adedeji",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Aliyu",
+        "LastName": "Muhammad bello",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ibrahim",
+        "LastName": "Ayomikun",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Mubarak",
+        "LastName": "Abubakr",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Munira",
+        "LastName": "Ajumobi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Hameedat",
+        "LastName": "Oyewopo Timile",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "David",
+        "LastName": "Onigbinde",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Daniel",
+        "LastName": "Ugochukwu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Christian",
+        "LastName": "Daniels",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Aisosa",
+        "LastName": "Oghaghon",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Abubakar",
+        "LastName": "Sani",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Nathaniel",
+        "LastName": "Owodighe",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Favour",
+        "LastName": "Jonathan",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Elijah",
+        "LastName": "Ashaolu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Raphael",
+        "LastName": "Okeke",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Frank",
+        "LastName": "Eshieshi",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Great",
+        "LastName": "Ohakwe",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Chinedu",
+        "LastName": "Okeke",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Olamide",
+        "LastName": "Wahab",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ibrahim",
+        "LastName": "Adeniran",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Isaac",
+        "LastName": "Anthony",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Bello",
+        "LastName": "Bello",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Israel",
+        "LastName": "Sandra",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Vivian",
+        "LastName": "Nwokediba",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Johnpaul",
+        "LastName": "Gabriel",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Oluwaseun",
+        "LastName": "Ajayi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Gift",
+        "LastName": "Ojieh",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Eustace",
+        "LastName": "Mbanefo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Caroline",
+        "LastName": "Ajiboye",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Emmanuel",
+        "LastName": "Okoosi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Tochukwu",
+        "LastName": "Christian",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Tofunmi",
+        "LastName": "Omojolomoloju",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Pauline",
+        "LastName": "Ominyi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Godswill",
+        "LastName": "Nwogu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Tariq",
+        "LastName": "Auwal",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Akande",
+        "LastName": "Samuel",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Martins",
+        "LastName": "John Okafor",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Olorunshogo",
+        "LastName": "Bamtefa",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Habib",
+        "LastName": "Yusuf",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Chiemelie",
+        "LastName": "Aniagolu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Mubaraq Ayo",
+        "LastName": "Abdulraheem",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Favour",
+        "LastName": "Allison",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Yusuf",
+        "LastName": "Adeniran",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Michael",
+        "LastName": "Rukevwe Omonedo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Joshua",
+        "LastName": "Alhassan",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Johnson",
+        "LastName": "Bamidele",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Oguntoyinbo",
+        "LastName": "Abdullateef",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Danjuma",
+        "LastName": "Ibrahim",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Peace",
+        "LastName": "Akinola",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Obaidu",
+        "LastName": "Oluwabusola",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Blessing",
+        "LastName": "Famuti",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Thankgod",
+        "LastName": "Ikefuama",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Peace",
+        "LastName": "Michael",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Sekinat",
+        "LastName": "Akinola",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Prince",
+        "LastName": "Prince",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Armstrong Precious",
+        "LastName": "Ikeogu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Olayinka",
+        "LastName": "Olodude",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Henry",
+        "LastName": "Nwagba",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Alex",
+        "LastName": "Detumo",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Isah",
+        "LastName": "Igweimoh",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Qasim",
+        "LastName": "Adebisi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Babatunde",
+        "LastName": "Adekunle",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Yagazie",
+        "LastName": "Chinedum Eze",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Shuaibu",
+        "LastName": "Quadri",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Olaiya",
+        "LastName": "Habeeb",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Hamidu",
+        "LastName": "Modibbo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Christiana",
+        "LastName": "Omonola",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ola",
+        "LastName": "Olasunkanmi",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Owuama",
+        "LastName": "Kelechi",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Chigozie",
+        "LastName": "Ndubuaku",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Victor",
+        "LastName": "Asiya",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ebuka",
+        "LastName": "Ukaji",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Babatunde",
+        "LastName": "Olatunji",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Halimah",
+        "LastName": "Shifatu",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Moses",
+        "LastName": "Abu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Temidayo",
+        "LastName": "Akanbi-Bello",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Adeboye",
+        "LastName": "Bello",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Samuel Colenor",
+        "LastName": "Tawo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ikechukwu",
+        "LastName": "Charles",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Francis",
+        "LastName": "Akugbo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Christian",
+        "LastName": "Adabanya",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Blossom",
+        "LastName": "Ray-Alende",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Abdullahi",
+        "LastName": "Auwal Haruna",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Samson",
+        "LastName": "Moradeyo",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Kahinde",
+        "LastName": "Adigun",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ihezue",
+        "LastName": "Emmanuel",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Oladeji",
+        "LastName": "Alabi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Godwin",
+        "LastName": "Jonathan",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Erhumuose",
+        "LastName": "Asak",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Adamu",
+        "LastName": "Ahmad Muhammad",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Gideon",
+        "LastName": "Ogbuehi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ujunma",
+        "LastName": "Nwagboso",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Divine",
+        "LastName": "Nze",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Chichebe",
+        "LastName": "Nmesoma",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Martha",
+        "LastName": "Enerieta",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ridwan",
+        "LastName": "Afolabi",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Damilola",
+        "LastName": "Ipadeola",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ahmed",
+        "LastName": "Abdullahi",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Collins",
+        "LastName": "Tochukwu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Onyedikachi",
+        "LastName": "Orjinta",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Oluwabusayo",
+        "LastName": "Sina-Olulana",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Muhammed",
+        "LastName": "Adamu Girei",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Chigozirim",
+        "LastName": "Chima",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Osibote",
+        "LastName": "Omotayo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Gospel",
+        "LastName": "Onuoha",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+     {
+        "FirstName": "Irefin",
+        "LastName": "David",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+     {
+        "FirstName": "Matthew",
+        "LastName": "Olanipekun",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+     {
+        "FirstName": "Olayinka",
+        "LastName": "Amosun",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+     {
+        "FirstName": "Peter",
+        "LastName": "Nwakuba",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+     {
+        "FirstName": "Ayomide",
+        "LastName": "Omoniyi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Emmanuel",
+        "LastName": "Jovi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Olufemi",
+        "LastName": "Odusile",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Farouq",
+        "LastName": "Agboola",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Saminu",
+        "LastName": "Yunana Bunu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ezekiel",
+        "LastName": "Adeosun",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Stella",
+        "LastName": "Smart",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ademola",
+        "LastName": "Adegbola",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Raihanat",
+        "LastName": "Isah",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Samuel",
+        "LastName": "Mustapha",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Abraham",
+        "LastName": "Onuh",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Emmanuel",
+        "LastName": "Chukwu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Kingsley",
+        "LastName": "Effiong",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Bashir",
+        "LastName": "Muhammad Yahya",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Odunayo",
+        "LastName": "Adeniran",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Emordi",
+        "LastName": "Promise",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Utitbest",
+        "LastName": "Akpan",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Sandra",
+        "LastName": "Chidiebere",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Kadiri",
+        "LastName": "Josiah",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Michael",
+        "LastName": "Okwuosah",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Ridwanullah",
+        "LastName": "Adebayo",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Chiedozie",
+        "LastName": "Onyekwelu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Bassey",
+        "LastName": "Oliver",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Michael",
+        "LastName": "Adesina",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Alamutu",
+        "LastName": "Mubarak",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Joseph",
+        "LastName": "John",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Joshua",
+        "LastName": "Akintimehin",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Godspower",
+        "LastName": "Ojini",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Bayo",
+        "LastName": "Ayanlola",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Adeola",
+        "LastName": "Sheriff",
+        "LearningStage": "Advanced",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Esuga",
+        "LastName": "Tseja",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Adams",
+        "LastName": "Siddique",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Michael",
+        "LastName": "Ali-Ameh",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Hauwa",
+        "LastName": "Sambo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Taofeek",
+        "LastName": "Jide-Idowu",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "David",
+        "LastName": "Adelesi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Emmanuel",
+        "LastName": "James",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Abdulazeez",
+        "LastName": "Abdulsamad",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "David",
+        "LastName": "Oyatoye",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Usman",
+        "LastName": "Muhammad Kafi",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Muhammad Mubarak",
+        "LastName": "Musa",
+        "LearningStage": "Beginner",
+        "LearningPath": "Frontend"
+    },
+    {
+        "FirstName": "Hamza",
+        "LastName": "Auwalu",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Chidinma",
+        "LastName": "Ukachi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Ahmad Muhammad",
+        "LastName": "Idris",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Ayofemi",
+        "LastName": "Solomon",
+        "LearningStage": "Advanced",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Usman",
+        "LastName": "Yahya",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Odili",
+        "LastName": "Triumph",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Abdulrazak",
+        "LastName": "Yahuza",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Olamide",
+        "LastName": "Ajibulu",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Evince",
+        "LastName": "Uhurebor",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Caleb",
+        "LastName": "Fadare",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Henry",
+        "LastName": "Adagba",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Ajibo",
+        "LastName": "Anthony",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Yinusa",
+        "LastName": "Olanrewaju",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Daniel",
+        "LastName": "Ojiaku",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Jasper",
+        "LastName": "Nri",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Suleiman",
+        "LastName": "Abdulkadir",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Precious",
+        "LastName": "Odo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Lawani",
+        "LastName": "Covenant",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Nnamdi",
+        "LastName": "Ekechi",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Solomon",
+        "LastName": "Ezeatum",
+        "LearningStage": "Advanced",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Ezekiel",
+        "LastName": "Anagha",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Samuel",
+        "LastName": "Oyebamiji",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "April",
+        "LastName": "Apakama",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Irene",
+        "LastName": "Ezinne",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Amarachi",
+        "LastName": "Uvere",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Isaac",
+        "LastName": "Akinmokun",
+        "LearningStage": "Advanced",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Okorie",
+        "LastName": "Stanley Chiedozie",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Samuel",
+        "LastName": "Akinomolafe",
+        "LearningStage": "Advanced",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Odunayo",
+        "LastName": "Fakorode",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Oluwafemi",
+        "LastName": "Olatunji",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Enoch",
+        "LastName": "Madehin",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Isaac",
+        "LastName": "Henry",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Israel",
+        "LastName": "Adekanmi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Ronak",
+        "LastName": "Mevada",
+        "LearningStage": "Advanced",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Abigail",
+        "LastName": "Orimiobayaku",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Taiye David",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Tola",
+        "LastName": "Akinnawo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Victor",
+        "LastName": "Oseji",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Emediong",
+        "LastName": "Charlie",
+        "LearningStage": "Advanced",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Solomon",
+        "LastName": "Olakulehin",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Adelugba",
+        "LastName": "Adeniji",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Emmanuel",
+        "LastName": "Aondohemba",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Joseph",
+        "LastName": "Betty",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Abimbola",
+        "LastName": "Joshua",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Trust",
+        "LastName": "Ihemebiri",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Faleti",
+        "LastName": "Shile",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Zainab",
+        "LastName": "Babandede",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Ayebakuro",
+        "LastName": "Ayebakuro",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Edifonte",
+        "LastName": "Jack",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Afolabi",
+        "LastName": "Riskot",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Chukwubuikem Justin",
+        "LastName": "Ofodile",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Tushar",
+        "LastName": "Rayamajhi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Aminu",
+        "LastName": "Goni Bukar",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Hezekiah",
+        "LastName": "Ojenike",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Seyi",
+        "LastName": "Olalumade",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Daniel",
+        "LastName": "Akande",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Steven",
+        "LastName": "Bishopton",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Mahmoud",
+        "LastName": "Garba",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Oyebola",
+        "LastName": "Noah",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Timothy",
+        "LastName": "Jehwo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Johnson",
+        "LastName": "Isaiah",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "kelvin",
+        "LastName": "Tochukwu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Ojo",
+        "LastName": "Johnson",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Emmanuel",
+        "LastName": "Ekebuisi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Samuel",
+        "LastName": "Madu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Jude",
+        "LastName": "Amienghemhen",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Attah",
+        "LastName": "Sixtus",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Franklin",
+        "LastName": "Nkwocha",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Anita",
+        "LastName": "Nkwocha",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Anas",
+        "LastName": "Yakubu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Nnamdi",
+        "LastName": "Osuoha",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Abubakar",
+        "LastName": "Muhammad",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Uthman",
+        "LastName": "Bello",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Bilyaminu",
+        "LastName": "Ahmad",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Ewomazino",
+        "LastName": "Ekwigbedi",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Anakhe",
+        "LastName": "Ajayi",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Abdul-Rasheed",
+        "LastName": "Wahab",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Charles",
+        "LastName": "Adah",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Tosin",
+        "LastName": "Adewale",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Glory",
+        "LastName": "Glory",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Lotachukwu",
+        "LastName": "Onwuka",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Bilal Mubarak",
+        "LastName": "Bilal",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Ifeoluwa",
+        "LastName": "Idowu",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Husseini",
+        "LastName": "Mudi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Backend"
+    },
+    {
+        "FirstName": "Gift",
+        "LastName": "Effiong",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Lubem",
+        "LastName": "Gbughul",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Valentina",
+        "LastName": "Okechukwu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Esther",
+        "LastName": "Samson",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Nzubechukwu",
+        "LastName": "Nwoke",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Rodiat",
+        "LastName": "Saka",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Onyeke",
+        "LastName": "Edache",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Emmanuel",
+        "LastName": "Olafisoye",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Lucas",
+        "LastName": "Oluwajobi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Mariam",
+        "LastName": "Aina",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Abioye",
+        "LastName": "Oyelami",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Chiamaka",
+        "LastName": "Obi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Blessing",
+        "LastName": "Odugbemi",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Olivia",
+        "LastName": "Okafor",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Oghenenyore",
+        "LastName": "Erhurhu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Gladys Ruth",
+        "LastName": "Dalumo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Ifeanyi Isaiah",
+        "LastName": "Nsude",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Yemisi",
+        "LastName": "Adekola",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Gomanji",
+        "LastName": "Sindima",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Shamsuddeen",
+        "LastName": "Yusuf",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Zainab",
+        "LastName": "Adam",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Abdullahi",
+        "LastName": "Aliyu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Daniel",
+        "LastName": "Emmanuel Bwala",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Chidera Peace",
+        "LastName": "Orazulume",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Michael",
+        "LastName": "Ugwoke",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Ebube",
+        "LastName": "Amachukwu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Chimgozirim",
+        "LastName": "Akagha",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Okurume",
+        "LastName": "Paul",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Chibuzor",
+        "LastName": "Iluno",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Sani",
+        "LastName": "Abdulmajid",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Emmanuel",
+        "LastName": "Okerein",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Emmanuel",
+        "LastName": "Okunlola",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Chukwuebuka Frank",
+        "LastName": "Ezeifedigbo-obiora",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Amarachi",
+        "LastName": "Nnajiofor",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Faith Oluwanifemi",
+        "LastName": "Amuda",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Oluwafemi",
+        "LastName": "Anibijuwon",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Mercy",
+        "LastName": "Opayinka",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Stephen",
+        "LastName": "Adepoju",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Yusuf",
+        "LastName": "Solomon",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Oluwateniola",
+        "LastName": "Ojeranti",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Wonder",
+        "LastName": "Unaji",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Adebamiro",
+        "LastName": "Adetutu",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Sarumi",
+        "LastName": "Hammad",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Elizabeth",
+        "LastName": "Orji",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Sadiya",
+        "LastName": "Abdullahi Ladan",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Ejiro",
+        "LastName": "Erhue",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Favour",
+        "LastName": "Orifa",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Abdulrazaq",
+        "LastName": "Sulaiman",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Muliq",
+        "LastName": "Shittu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Nanjul",
+        "LastName": "Napdo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "David",
+        "LastName": "Bala",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Mohammed Ahmed",
+        "LastName": "Hassan",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "George",
+        "LastName": "Onwughalu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Abdul-Salam",
+        "LastName": "Adebayo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Ifechukwu",
+        "LastName": "Azubogu",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Favour",
+        "LastName": "Ibezim",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Abigail",
+        "LastName": "Emmanuel",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Stephnora",
+        "LastName": "Osedei",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Victoria",
+        "LastName": "Bewaji",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "David",
+        "LastName": "Kadala",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Kehinde",
+        "LastName": "Samson",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Faith",
+        "LastName": "Osamaye",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Oluwafemi",
+        "LastName": "Abioye",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Praise",
+        "LastName": "Adeyeye",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Theophilus",
+        "LastName": "Tabuke",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Oluwademilade",
+        "LastName": "Famuyide",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Joel",
+        "LastName": "Babatunde",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Ezuma",
+        "LastName": "Uzochukwu",
+        "LearningStage": "Advanced",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Samuel",
+        "LastName": "David",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Elijah",
+        "LastName": "Obisesan",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Fransisca",
+        "LastName": "Iloh",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Baqir",
+        "LastName": "Shuaibu",
+        "LearningStage": "Intermediate",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Paul",
+        "LastName": "Bayo Seye",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Raheemat Fareedah",
+        "LastName": "Balogun",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Abisola",
+        "LastName": "Odutayo",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Ahmad Rufai",
+        "LastName": "Yusuf",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    },
+    {
+        "FirstName": "Muhammad",
+        "LastName": "Baba-Ahmad",
+        "LearningStage": "Beginner",
+        "LearningPath": "Generative Ai"
+    }
+]

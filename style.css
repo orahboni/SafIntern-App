@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1f1f1f;
+    width: 100vw;
+    max-height: max-content;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: hsl(0, 0%, 96%);
+    width: 100%;
+  display: flex;
+  padding: 15px;
+  margin: auto;
+  justify-content: space-between;
+}
+
+header .flexisaf-logo {
+    padding-left: 10px;
+}
+
+header button {
+   display: inline; 
+   border: none;
+   outline: none;
+   margin-right: 10px;
+   background-color: hsl(171, 100%, 96%);
+   border-radius: 50%;
+   height: 30px;
+   width: 30px;
+   cursor: pointer;
+   transition: 0.8s;
+}
+
+header button:hover{
+    background-color: hsl(171, 100%, 93%);
+
+}
+
+header button img {
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
+}
+
+.lightMode {
+    display: none;
+}
+
+.internManagement {
+    width: 90%;
+    min-height: 80vh;
+    margin: 50px auto 20px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    justify-items: center;
+}
+
+.internManagement h1 {
+    color: rgb(216,219,222);
+    font-weight: bold;
+}
+
+.internManagement .searchBox {
+    margin-top: 30px;
+}
+
+#searchInput {
+   border: 0;
+    outline: 0;
+    background: #ebfffc;
+    color: #555;
+    padding: 10px 25px;
+    height: 30px;
+    width: 200px;
+    max-width: 450px;
+    border-radius: 30px;
+    flex: 1;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+#searchBtn {
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+#searchBtn img {
+        width: 16px;
+}
+
+.internManagement .filter {
+    margin-top: 10px;
+}
+
+.internManagement .filter button {
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border: 0;
+    outline: 0;
+    border-radius: 10px;
+    padding: 8px;
+    color: #1f1f1f;
+    background-color: #c4c4c4;
+}
+
+
+.internManagement select {
+    border: none;
+    outline: none;
+    margin-left: 5px;
+    color:  #555;
+}
+
+.internManagement .filter img {
+    vertical-align: middle;
+    margin-right: 8px;
+    width: 16px;
+    height: 16px;
+}
+
+.internManagement table {
+    display: none;
+    width: 100%;
+    overflow-x: auto;
+    color: rgb(216,219,222);
+    padding: 15px 15px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  @media (min-width: 768px) {
+    .internManagement table {
+    text-align: center;
+    width: auto;
+      max-height: 500px;
+      overflow-y: auto;
+    }
+  }
+  
+  th, td {
+    border: 1px solid rgb(26,137,180);
+    padding: 5px;
+    text-align: left;
+  }
+
+td .stage {
+    border: 1.6px solid green;
+    outline: none;
+    border-radius: 5px;
+    background-color: hsl(0, 0%, 95%);
+    text-align: center;
+}
+
+td .path {
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: #174ea6;
+    color: #ebfffc;
+}
+
+.alignCenter {
+text-align: center;
+}
+
+
+footer {
+    background-color: hsl(0, 0%, 96%);
+    margin-bottom: 0pc;
+    width: 100%;
+  position: bottom;
+  padding: 10px;
+  bottom: 0;
+  text-align: center;
+  transform: translateY(100%);
+  animation: slideInBottom 0.5s ease-out 0.3 forwards;
+}
+
+.slide-in-bottom {
+  animation: slideInBottom 0.5s ease-out forwards;
+  transform: translateY(100%);
+  opacity: 0;
+}
+
+@keyframes slideInBottom {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
