@@ -155,7 +155,7 @@ function updateButtonStyles(activeButton) {
     if (activeButton) {
         activeButton.style.backgroundColor = 'green';
         activeButton.style.color = 'white';
-        table.classList.add('slide-in-bottom');
+        table.classList.add('fade-in');
     }
 }
 

@@ -141,7 +141,9 @@ header button img {
     text-align: center;
     border-radius: 10px;
     -webkit-overflow-scrolling: touch;
+    animation: fadeIn 0.5s ease;
   }
+
 
   @media (min-width: 768px) {
     .internManagement table {
@@ -191,19 +193,11 @@ footer {
   animation: slideInBottom 0.5s ease-out 0.3 forwards;
 }
 
-.slide-in-bottom {
-  animation: slideInBottom 0.5s ease-out forwards;
-  transform: translateY(100%);
-  opacity: 0;
+.fade-in {
+  animation: fadeIn 0.5s ease;
 }
 
-@keyframes slideInBottom {
-  from {
-    transform: translateY(100%);
-    opacity: 0;
-  }
-  to {
-    transform: translateY(0);
-    opacity: 1;
-  }
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
