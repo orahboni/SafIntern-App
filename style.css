@@ -216,7 +216,6 @@ footer a:hover{
 footer button {
     border: 1px solid rgb(26,137,180);
     outline: none;
-    padding: 4px;
     font-size: 14px;
     vertical-align: middle;
     background-color: hsl(171, 100%, 96%);
