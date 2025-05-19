@@ -224,8 +224,10 @@ footer button {
     transition: 0.5s ease;
 }
 footer p{
-  padding: 4px;
   font-size: 14px;
+}
+#contactAdminBtn{
+  display: block;
 }
 
 #viewPlacementListBtn{
