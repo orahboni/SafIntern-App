@@ -27,7 +27,86 @@
         </tbody>
     </table>
 </div>
-<footer><p>&copy; 2025 Peter Nwakuba</p>
+<!--Contact Form begins-->
+<div class="contactForm">
+    <h1>Contact Form</h1>
+  <form id="contact-form">
+    <div class="form-container">
+      <div class="name-row">
+        <div class="input-group">
+          <label for="firstName">First Name</label>
+          <input id="firstName" type="text" required>
+        </div>
+        <div class="input-group">
+          <label for="lastName">Last Name</label>
+          <input id="lastName" type="text" required>
+        </div>
+      </div>
+      <div class="input-group">
+        <label for="email">Email</label>
+        <input id="email" type="email" required>
+      </div>
+      <div class="input-group">
+        <label for="subject">Subject</label>
+        <input id="subject" type="text" required>
+      </div>
+      <div class="input-group">
+        <label for="message">Message</label>
+        <textarea id="message" rows="5" required></textarea>
+      </div>
+      <div class="radio-group">
+        <p class="radio-title">Select Learning Path</p>
+        <div class="radio-options">
+          <label>
+            <input type="radio" name="learningPath" value="Frontend" checked>
+            <span>Frontend</span>
+          </label>
+          <label>
+            <input type="radio" name="learningPath" value="Backend">
+            <span>Backend</span>
+          </label>
+          <label>
+            <input type="radio" name="learningPath" value="Generative Ai">
+            <span>Generative AI</span>
+          </label>
+        </div>
+      </div>
+      <div class="radio-group">
+        <p class="radio-title">Select Learning Stage</p>
+        <div class="radio-options">
+          <label>
+            <input type="radio" name="learningStage" value="Beginner" checked>
+            <span>Beginner</span>
+          </label>
+          <label>
+            <input type="radio" name="learningStage" value="Intermediate">
+            <span>Intermediate</span>
+          </label>
+          <label>
+            <input type="radio" name="learningStage" value="Advanced">
+            <span>Advanced</span>
+          </label>
+        </div>
+      </div>
+      <div class="radio-group">
+        <p class="radio-title">Select Admin</p>
+        <div class="radio-options vertical">
+          <label>
+            <input type="radio" name="admin" value="Miss Mariam" checked>
+            <span>Mariam Ali Ameh</span>
+          </label>
+          <label>
+            <input type="radio" name="admin" value="Mr Michael">
+            <span>Michael Okoronu</span>
+          </label>
+        </div>
+      </div>
+      <button type="submit" class="submit-btn">Send Message</button>
+    </div>
+  </form>
+</div>
+<!--Contact Form ends-->
+<footer><p>&copy; 2025 <a href="https://github.com/orahboni/">Peter Nwakuba</a></p><div class="footer-right"><button id="contactAdminBtn">Contact Program Support</button><button id="viewPlacementListBtn">View Placement List</button></div>
 </footer>
 
     <script src="scripts.js"></script>

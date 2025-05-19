@@ -15,6 +15,10 @@ const filterGenerativeAiBtn = document.getElementById('filterGenerativeAiBtn');
 const displayAllInternBtn = document.getElementById('displayAllBtn');
 const searchInput = document.getElementById('searchInput');
 const searchBtn = document.getElementById('searchBtn');
+const contactAdminBtn = document.getElementById('contactAdminBtn');
+const internManagement = document.querySelector('.internManagement');
+const contactForm = document.querySelector('.contactForm');
+const viewPlacementListBtn = document.querySelector('#viewPlacementListBtn');
 
 // Initialize pagination controls
 const paginationContainer = document.createElement('div');
@@ -302,6 +306,53 @@ displayAllInternBtn.addEventListener('click', () => {
     searchInput.value = '';
     getPlacementList();
 });
+
+/*document.querySelector('.submit-btn').addEventListener('click', () => {
+    sendEmail();
+    
+})
+
+function sendEmail() {
+  // Get form parameters directly
+  const firstName = document.getElementById('firstName');
+  const lastName = document.getElementById('lastName');
+  const email = document.getElementById('email');
+  const subject = document.getElementById('subject');
+  const message = document.getElementById('message');
+  const learningPath = document.querySelector('input[name="learningPath"]:checked').value;
+  const learningStage = document.querySelector('input[name="learningStage"]:checked').value;
+  const admin = document.querySelector('input[name="admin"]:checked').value;
+
+  const name = firstName + lastName;
+  
+console.log(learningPath);
+console.log(learningStage);
+console.log(admin);
+
+  MailApp.sendEmail({
+  to: email,
+  subject: "We received your message!",
+  htmlBody: `<p>Hi ${name},</p>
+            <p>We got your message: "${message}"</p>
+            <p>We'll respond soon!</p>`
+});
+} */
+
+// Display Contact Form
+contactAdminBtn.onclick = () => {
+    contactForm.style.display = 'block';
+    internManagement.style.display = 'none';
+    viewPlacementListBtn.style.display = 'block';
+    contactAdminBtn.style.display = 'none';
+}
+
+viewPlacementListBtn.onclick = () => {
+    contactForm.style.display = 'none';
+    internManagement.style.display = 'block';
+    contactAdminBtn.style.display = 'block';
+    viewPlacementListBtn.style.display = 'none';
+}
+
 
 // Switch to Light Mode by Default
 switchToLightMode();
