@@ -125,13 +125,6 @@ header button img {
     color:  #555;
 }
 
-.internManagement .filter img {
-    vertical-align: middle;
-    margin-right: 8px;
-    width: 16px;
-    height: 16px;
-}
-
 .internManagement table {
     display: none;
     width: 100%;
@@ -367,11 +360,31 @@ textarea {
   cursor: pointer;
   transition: 0.3s ease;
   margin-top: 1rem;
+  width: 100%;
 }
 
 .submit-btn:hover {
   background: hsl(217, 76%, 27%);
   color: hsl(0, 0%, 96%);
+}
+
+.submit-btn a {
+  text-decoration: none;
+  color: hsl(0, 0%, 96%);
+}
+
+.confirmationNotification {
+  background: hsl(136, 76%, 37%);
+  color: hsl(0, 0%, 96%);
+  border: 1px solid aqua;
+  padding: 1rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  margin-top: 50px;
+  display: none;
 }
 
 /* Error states */

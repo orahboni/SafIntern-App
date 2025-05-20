@@ -307,36 +307,71 @@ displayAllInternBtn.addEventListener('click', () => {
     getPlacementList();
 });
 
-/*document.querySelector('.submit-btn').addEventListener('click', () => {
-    sendEmail();
-    
-})
 
-function sendEmail() {
-  // Get form parameters directly
-  const firstName = document.getElementById('firstName');
-  const lastName = document.getElementById('lastName');
-  const email = document.getElementById('email');
-  const subject = document.getElementById('subject');
-  const message = document.getElementById('message');
-  const learningPath = document.querySelector('input[name="learningPath"]:checked').value;
-  const learningStage = document.querySelector('input[name="learningStage"]:checked').value;
-  const admin = document.querySelector('input[name="admin"]:checked').value;
 
-  const name = firstName + lastName;
+document.querySelector('.submit-btn').addEventListener('click', (e) => {
+    e.preventDefault();
+
+    const firstName = document.getElementById('firstName').value;
+    const lastName = document.getElementById('lastName').value;
+    const email = document.getElementById('email').value;
+    const subjectInput = document.getElementById('subject').value;
+    const learningPath = document.querySelector('input[name="learningPath"]:checked').value;
+    const learningStage = document.querySelector('input[name="learningStage"]:checked').value;
+    const admin = document.querySelector('input[name="admin"]:checked').value;
+    const userText = document.getElementById('message').value;
+
+    const internFullName = firstName.charAt(0).toUpperCase() + firstName.slice(1).toLowerCase() + ' ' + lastName.charAt(0).toUpperCase() + lastName.slice(1).toLowerCase();
+    function isValidEmail(email) {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+     return emailRegex.test(email);
+    }
+
+    const isFormValid = (
+    firstName.trim() !== "" &&
+    lastName.trim() !== "" &&
+    email.trim() !== "" &&
+    isValidEmail(email.trim()) &&
+    subjectInput.trim() !== "" &&
+    userText.trim() !== ""
+    );
+      
+
+    const message = `Good Day ${admin},` + '%0D%0A%0D%0A' + `${userText}` + '%0D%0A%0D%0A' + 'Kind Regards,' + '%0D%0A%0D%0A' + `${internFullName}` + '%0D%0A' + `${learningPath} Intern (${learningStage})`;
+    const subject = subjectInput.charAt(0).toUpperCase() + subjectInput.slice(1).toLowerCase();
+    const body = message;
+
+    if (isFormValid) {
+        let recipientEmail;
+
+        if (admin === 'Ms. Mariam') {
+            recipientEmail = 'mariam.ameh@flexisaf.com';
+        } else if (admin === 'Mr Michael') {
+            recipientEmail = 'michael.okoronu@flexisaf.com';
+        } else {
+            console.error("Invalid admin value:", admin);
+             return;
+        }
+
+        window.open(
+        `https://mail.google.com/mail/?view=cm&fs=1&to=${recipientEmail}&cc=${email}&su=Form%20Submission%20on%20SafIntern%20App%20-%20${subject}&body=${body}`,
+        '_blank'
+        );
+
+        document.querySelector('.confirmationNotification').style.display = 'block';
+        document.querySelector('.submit-btn').style.display = 'none';
+    } else {
+        if (email.trim() !== "" && !isValidEmail(email.trim())) {
+        alert("Please enter a valid email address!");
+        }
+
+        document.querySelector('.confirmationNotification').style.display = 'none';
+        document.querySelector('.submit-btn').style.display = 'block';
+    }
   
-console.log(learningPath);
-console.log(learningStage);
-console.log(admin);
-
-  MailApp.sendEmail({
-  to: email,
-  subject: "We received your message!",
-  htmlBody: `<p>Hi ${name},</p>
-            <p>We got your message: "${message}"</p>
-            <p>We'll respond soon!</p>`
 });
-} */
+
+  
 
 // Display Contact Form
 contactAdminBtn.onclick = () => {
