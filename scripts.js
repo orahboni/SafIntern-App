@@ -357,7 +357,9 @@ document.querySelector('.submit-btn').addEventListener('click', (e) => {
         const isMobile = () => {
             const isSmallScreen = window.innerWidth <= 768;
             const hasTouchScreen = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
-            return isSmallScreen && hasTouchScreen;
+            const userAgent = navigator.userAgent.toLowerCase();
+            const isMobileUA = /android|iphone|ipod|ipad|windows phone/i.test(userAgent);
+            return isSmallScreen && isMobileUA && hasTouchScreen;
         };
 
         if (isMobile()) {
