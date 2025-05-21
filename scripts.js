@@ -353,16 +353,10 @@ document.querySelector('.submit-btn').addEventListener('click', (e) => {
              return;
         }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
         document.querySelector('.submit-btn').href = `mailto:${recipientEmail}?subject=Form%20Submission%20on%20SafIntern%20App%20-%20${subject}&cc=${email}&body=${body}`;
       // document.querySelector('.submit-btn').href = `https://mail.google.com/mail/?view=cm&fs=1&to=${recipientEmail}&cc=${email}&su=Form%20Submission%20on%20SafIntern%20App%20-%20${subject}&body=${body}`;
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
        // window.open(
        // `https://mail.google.com/mail/?view=cm&fs=1&to=${recipientEmail}&cc=${email}&su=Form%20Submission%20on%20SafIntern%20App%20-%20${subject}&body=${body}`,
        // '_blank'
@@ -372,15 +366,6 @@ document.querySelector('.submit-btn').addEventListener('click', (e) => {
         `mailto:${recipientEmail}?subject=Form%20Submission%20on%20SafIntern%20App%20-%20${subject}&cc=${email}&body=${body}`,
         '_blank'
         );
->>>>>>> Stashed changes
-
-
-
-
-
-
-
-
 
 
         document.querySelector('.confirmationNotification').style.display = 'block';
