@@ -354,6 +354,8 @@ textarea {
   color: hsl(0, 0%, 96%);
   border: 1px solid aqua;
   padding: 1rem 1.5rem;
+  text-decoration: none;
+  text-align: center;
   font-size: 1rem;
   font-weight: 600;
   border-radius: 10px;
