@@ -353,10 +353,6 @@ document.querySelector('.submit-btn').addEventListener('click', (e) => {
              return;
         }
 
-
-        document.querySelector('.submit-btn').href = `mailto:${recipientEmail}?subject=Form%20Submission%20on%20SafIntern%20App%20-%20${subject}&cc=${email}&body=${body}`;
-      // document.querySelector('.submit-btn').href = `https://mail.google.com/mail/?view=cm&fs=1&to=${recipientEmail}&cc=${email}&su=Form%20Submission%20on%20SafIntern%20App%20-%20${subject}&body=${body}`;
-
        // window.open(
        // `https://mail.google.com/mail/?view=cm&fs=1&to=${recipientEmail}&cc=${email}&su=Form%20Submission%20on%20SafIntern%20App%20-%20${subject}&body=${body}`,
        // '_blank'
