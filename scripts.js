@@ -307,7 +307,7 @@ displayAllInternBtn.addEventListener('click', () => {
     getPlacementList();
 });
 
-
+// Contact Form -- start
 
 document.querySelector('.submit-btn').addEventListener('click', (e) => {
     e.preventDefault();
@@ -337,7 +337,7 @@ document.querySelector('.submit-btn').addEventListener('click', (e) => {
     );
       
 
-    const message = `Good Day ${admin},` + '%0D%0A%0D%0A' + `${userText}` + '%0D%0A%0D%0A' + 'Kind Regards,' + '%0D%0A%0D%0A' + `${internFullName}` + '%0D%0A' + `${learningPath} Intern (${learningStage})`;
+    const message = `Good Day ${admin},` + '%0D%0A%0D%0A' + `${userText}` + '%0D%0A%0D%0A' + 'Kind Regards,' + '%0D%0A' + `${internFullName}` + '%0D%0A' + `${learningPath} Intern (${learningStage})`;
     const subject = subjectInput.charAt(0).toUpperCase() + subjectInput.slice(1).toLowerCase();
     const body = message;
 
@@ -386,7 +386,7 @@ document.querySelector('.submit-btn').addEventListener('click', (e) => {
     }
   
 });
-
+// contact form -- end
   
 
 // Display Contact Form
