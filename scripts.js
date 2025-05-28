@@ -58,21 +58,20 @@ darkMode.addEventListener('click', switchToLightMode);
 lightMode.addEventListener('click', switchToDarkMode);
 
 function switchToLightMode() {
+    document.body.classList.remove('dark-mode');
+    document.body.classList.add('light-mode');
     darkMode.style.display = 'none';
     lightMode.style.display = 'block';
-    document.body.style.backgroundColor = 'rgb(216,219,222)';
-    document.querySelector('.internManagement h1').style.color = '#1f1f1f';
-    table.style.color = '#1f1f1f';
-    document.querySelector('.pagination').style.color = '#1f1f1f';
+    
 }
 
 function switchToDarkMode() {
-    lightMode.style.display = 'none';
+    document.body.classList.remove('light-mode');
+    document.body.classList.add('dark-mode');
     darkMode.style.display = 'block';
-    document.body.style.backgroundColor = '#1f1f1f';
-    document.querySelector('.internManagement h1').style.color = 'rgb(216,219,222)';
-    table.style.color = 'rgb(216,219,222)';
-     document.querySelector('.pagination').style.color = 'rgb(216,219,222)';
+    lightMode.style.display = 'none';
+
+    
 }
 
 // Common function to render table with pagination

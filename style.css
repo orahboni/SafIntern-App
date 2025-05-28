@@ -260,7 +260,6 @@ background-color: hsl(171, 100%, 90%);
     text-align: center;
 }
 
-
 .form-container {
   display: flex;
   flex-direction: column;
@@ -282,16 +281,21 @@ background-color: hsl(171, 100%, 90%);
   gap: 0.5rem;
 }
 
-label {
+.contactForm label {
   font-weight: 600;
   color: #1f1f1f;
   font-size: 0.9rem;
 }
 
-input,
-textarea {
+.contactForm span {
+  color: #1f1f1f;
+}
+
+.contactForm input,
+.contactForm textarea {
     outline: none;
   padding: 0.8rem;
+  color: #1f1f1f;
   border: 1px solid aqua;
   border-radius: 5px;
   font-size: 1rem;
@@ -412,4 +416,58 @@ textarea:invalid {
     flex-direction: column;
     gap: 0.5rem;
   }
+}
+
+/* Light mode */
+body.light-mode {
+    background-color: rgb(216,219,222);
+}
+body.light-mode .internManagement h1 {
+    color: #1f1f1f;
+}
+body.light-mode table {
+    color: #1f1f1f;
+}
+body.light-mode table {
+    color: #1f1f1f;
+}
+body.light-mode .internManagement span {
+    color: #1f1f1f;
+}
+body.light-mode .contactForm {
+    background-color: white;
+}
+
+/* Dark mode */
+body.dark-mode {
+    background-color: #1f1f1f;
+}
+
+body.dark-mode .internManagement h1 {
+    color: rgb(216,219,222);
+}
+body.dark-mode .internManagement span {
+    color: rgb(216,219,222);
+}
+body.dark-mode .contactForm {
+    background-color: hsl(0, 0%, 14%);
+}
+body.dark-mode .contactForm h1 {
+  color: rgb(216,219,222);
+}
+body.dark-mode table {
+    color: rgb(216,219,222);
+}
+body.dark-mode .contactForm span {
+  color: rgb(216,219,222);
+}
+body.dark-mode .contactForm label {
+  color: rgb(216,219,222);
+}
+body.dark-mode .contactForm .radio-title {
+  color: rgb(216,219,222);
+}
+body.dark-mode .contactForm input, body.dark-mode .contactForm textarea {
+  background-color: hsl(0, 0%, 14%);
+  color: white;
 }
